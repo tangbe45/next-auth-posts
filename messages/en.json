@@ -1,0 +1,7 @@
+{
+  "app": {
+    "welcome": "Welcome",
+    "login": "Login",
+    "register": "Register"
+  }
+}
