@@ -1,0 +1,7 @@
+{
+  "app": {
+    "welcome": "Bienvenue",
+    "login": "Connexion",
+    "register": "Créer un compte"
+  }
+}
